@@ -18,9 +18,3 @@ export default {
   color: red;
 }
 </style>
-
-<foo>
-export default comp => {
-  console.log(comp.options.data())
-}
-</foo>
