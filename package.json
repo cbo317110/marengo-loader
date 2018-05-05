@@ -1,9 +1,9 @@
 {
   "name": "marengo-loader",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Working arround vue-loader to detect Marengo components",
   "main": "index.js",
   "dependencies": {
-    "marengo": "0.0.5"
+    "marengo": "ˆ0.0.6"
   }
 }
